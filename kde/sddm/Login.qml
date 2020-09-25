@@ -124,7 +124,7 @@ SessionManagementScreen {
             width: parent.width
             height: 30
             radius: width / 2
-            color: "#82ABAA"
+            color: "#1C2028"
             opacity: enabled ? 1.0 : 0.3
         }
 
