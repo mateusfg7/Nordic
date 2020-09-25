@@ -368,8 +368,8 @@ PlasmaCore.ColorScope {
             id: blurBg
             anchors.fill: parent
             anchors.centerIn: parent
-            color: "#2e3440"
-            opacity: 0.1
+            color: "#282D38"
+            opacity: 0.7
             z:-1
         }
 
@@ -380,7 +380,7 @@ PlasmaCore.ColorScope {
             x: root.width / 2 - width / 2
             y: root.height / 2 - height / 3
             radius: 7
-            color: "#2e3440"
+            color: "#282D38"
             opacity: 0.5
             z:-1
         }
